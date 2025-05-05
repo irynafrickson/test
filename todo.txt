@@ -5,3 +5,5 @@
 4.1. Reload laundry
 5. Run
 5.1 Reload laundry
+6. Eat lanch
+7. Study Python
