@@ -2,4 +2,6 @@
 2. Start laundry
 3. Make lanch
 4. Study Python
+4.1. Reload laundry
 5. Run
+5.1 Reload laundry
